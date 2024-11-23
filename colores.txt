@@ -1,2 +1,2 @@
-rojo
-morado
+echo "rojo"
+echo "azul"
